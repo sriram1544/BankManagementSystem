@@ -122,7 +122,7 @@ Post login, user can perform the following actions:
 
 ### 👨‍💻 Author
 
-* **Name:** *Your Name*
+* **Name:** *Sriram Chiliveri*
 * **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sriram-chiliveri-35409727a/)
 * **GitHub:** [Your GitHub](https://github.com/sriram1544)
 
